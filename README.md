@@ -144,20 +144,3 @@ Settings → Pages → Select main branch → Save
 * Multilingual support for farmers
 * AI chatbot for farming guidance
 
----
-
-## 👩‍💻 Author
-
-**Preethi Mendon**
-
----
-
-## 📜 License
-
-This project is for educational and hackathon purposes.
-
----
-
-## ⭐ Acknowledgment
-
-Inspired by the need for smarter, data-driven agriculture solutions.
